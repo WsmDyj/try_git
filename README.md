@@ -10,3 +10,6 @@ git 训练场
 #git tag -a v0.1.0 
 
 #git push origin --tags
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
